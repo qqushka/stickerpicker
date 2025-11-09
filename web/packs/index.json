@@ -1,7 +1,8 @@
 {
   "packs": [
     "Anfisa.json",
-    "Pappy.json"
+    "Pappy.json",
+    "Pappy_2.json"
   ],
   "homeserver_url": "https://messagesqq.ru"
 }
