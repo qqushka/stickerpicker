@@ -2,7 +2,13 @@
   "packs": [
     "Anfisa.json",
     "Pappy.json",
-    "Pappy_2.json"
+    "Pappy_2.json",
+    "Lady_Meringue.json",
+    "Fluffy.json",
+    "Fox_Alice.json",
+    "Hazel_Nath.json",
+    "MELLSTROY.json",
+    "hamyak.json"
   ],
   "homeserver_url": "https://messagesqq.ru"
 }
